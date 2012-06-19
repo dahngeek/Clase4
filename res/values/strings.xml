@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Clase04</string>
+    <string name="txtUser">Usuario :</string>
+    <string name="txtButton">Login</string>
+    <string name="txtFoto">Tomar Fotografia</string>
+    <string name="txtLlamada">Llamar 110</string>
+
+</resources>
