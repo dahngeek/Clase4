@@ -20,7 +20,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="MenuActivity"></activity>
+        <activity android:name="MenuActivity"></activity> //Activity Adicional que se debe poner en el Manifest (aqui)
     </application>
 
 </manifest>
